@@ -1,0 +1,5 @@
+# Python dependencies for Shiprocket Data Fetcher
+# Install with: pip install -r requirements.txt
+
+requests==2.32.3        # HTTP library for calling APIs
+python-dotenv==1.0.1    # Reads .env files into environment variables
